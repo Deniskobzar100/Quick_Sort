@@ -1,3 +1,5 @@
+//Код предоставлен специально для портфолио Freelancehunt пользователем Denis Kobzar!
+
 #include <iostream>
 using namespace std;
 
